@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLocationMapBox</string>
+    <string name="access_token">pk.eyJ1IjoiZXhwbG9yaW5ncHJhdGlrIiwiYSI6ImNqb2Job3ZxMTFsbTUzdm9kdDM1Y2thdHYifQ.SGzunKmLIXnoxEXn_TSgMA</string>
+</resources>
